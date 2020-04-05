@@ -5,3 +5,4 @@ echo "Pass status $STATUS"
 NUM=$(($FIRSTNUMBER + $SECONDNUMBER))
 echo "$NUM
 echo "modified the script"
+echo "modified the script second time"
